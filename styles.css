@@ -1,0 +1,88 @@
+  .link{
+    width: 100%;
+    height: 30px;
+    font-weight: bold;
+  }
+  .link1{
+    text-decoration: none;
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+  .link2{
+    text-decoration: none;
+    text-align: center;
+    font-family: "Open Sans", Arial, sans-serif;
+    margin: 0px;
+  }
+  .link3{
+    text-decoration: none;
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+
+  .link4{
+    text-decoration: none;
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+  p.link1 {
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+  .cajalink1{
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 7px 0;
+    transition: 1s;
+    background-color:#00109c;
+    color: white;
+  }
+  .cajalink1:hover
+  {
+    background-color: white;
+    color:#00109c;
+  }
+  .cajalink2{
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 7px 0;
+    transition: 1s;
+    background-color:#00109c;
+    color: white;
+  }
+  .cajalink2:hover
+  {
+    background-color: white;
+    color: #00109c;
+  }
+  .cajalink3{
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 7px 0;
+    transition: 1s;
+    background-color:#00109c;
+    color: white;
+  }
+  .cajalink3:hover
+  {
+    background-color: white;
+    color: #00109c;
+  }
+
+  .cajalink4{
+    text-align: center;
+    width: 25%;
+    float: left;
+    padding: 7px 0;
+    transition: 1s;
+    background-color:#00109c;
+    color: white;
+  }
+  .cajalink4:hover
+  {
+    background-color: white;
+    color: #00109c;
+}
